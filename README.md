@@ -1,6 +1,6 @@
 # Awesome Papers
 
-> 分享一些当前时间节点下，通常下载不了的论文（视觉类为主）
+> 论文及阅读笔记分享（视觉类为主）
 
 
 
@@ -26,5 +26,5 @@
 
 ## Other Link
 
-[![gitee link](https://img.shields.io/static/v1?style=flat&logo=gitee&label=gitee&message=Link&color=orange)](https://gitee.com/yfaqh/paper)
+[![gitee link](https://img.shields.io/static/v1?style=flat&logo=gitee&label=gitee&message=Link&color=orange)](https://gitee.com/yfaqh/Awesome-Papers)
 
